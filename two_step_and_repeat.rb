@@ -1,5 +1,6 @@
 def first_steps
-  puts "Right foot back", "Left foot back",
+  puts "Right foot back", "Left foot back"
+  count = .5
   # "Right foot back", and "Stop", with sleep after each
 end
 
